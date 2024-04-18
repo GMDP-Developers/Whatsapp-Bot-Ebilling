@@ -1,4 +1,4 @@
-# Whatsapp Bot Ebilling
+# Whatsapp Bot Ebilling  &nbsp;&nbsp;  ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GMDP-Developers/Whatsapp-Bot-Ebilling/total?style=for-the-badge&label=Total%20Download&color=rgba(34%2C%20171%2C%20249%2C%200.8))
 #### Ini adalah aplikasi untuk whatsapp bot e-billing, silahkan install sesuai dengan operating system anda masing masing
 
 ## Langkah - langkah menggunakan Whatsapp Bot
