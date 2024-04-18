@@ -1,5 +1,12 @@
-# Whatsapp Bot Ebilling  &nbsp;&nbsp;  ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GMDP-Developers/Whatsapp-Bot-Ebilling/total?style=for-the-badge&label=Total%20Download&color=rgba(34%2C%20171%2C%20249%2C%200.8))
-#### Ini adalah aplikasi untuk whatsapp bot e-billing, silahkan install sesuai dengan operating system anda masing masing
+<p align="center">
+    <h1 align="center">Whatsapp Bot Ebilling <img alt="Static Badge" src="https://img.shields.io/badge/BETA-088fff"></h1>
+</p>
+
+<p align="center">
+<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/GMDP-Developers/Whatsapp-Bot-Ebilling/total?style=for-the-badge&label=Total%20Download&color=rgba(34%2C%20171%2C%20249%2C%200.8)">
+</p>
+
+<h2 align="center">Server Whatsapp akan berjalan di perangkat anda masing-masing, jika anda menutup aplikasi atau mematikan perangkat anda maka server Whatsapp Bot juga akan berhenti</h2>
 
 ## Langkah - langkah menggunakan Whatsapp Bot
 1. Download Aplikasi Whatsapp Bot Server di menu <a href="https://github.com/GMDP-Developers/Whatsapp-Bot-Ebilling/releases">Release</a>, dan pilih sesuai operating system anda (Windows pilih .exe). Ketika Download akan muncul peringatan, pilih saja <strong>Keep</strong> atau <strong>Download suspicious file</strong>
