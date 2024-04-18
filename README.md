@@ -9,7 +9,7 @@
 <h2 align="center">Server Whatsapp akan berjalan di perangkat anda masing-masing, jika anda menutup aplikasi atau mematikan perangkat anda maka server Whatsapp Bot juga akan berhenti</h2>
 
 ## Langkah - langkah menggunakan Whatsapp Bot
-1. Download Aplikasi Whatsapp Bot Server di menu <a href="https://github.com/GMDP-Developers/Whatsapp-Bot-Ebilling/releases">Release</a>, dan pilih sesuai operating system anda (Windows pilih .exe). Ketika Download akan muncul peringatan, pilih saja <strong>Keep</strong> atau <strong>Download suspicious file</strong>
+1. Download Aplikasi Whatsapp Bot Server di menu <a href="https://github.com/GMDP-Developers/Whatsapp-Bot-Ebilling/releases">Releases</a>, dan pilih sesuai operating system anda (Windows pilih .exe). Ketika Download akan muncul peringatan, pilih saja <strong>Keep</strong> atau <strong>Download suspicious file</strong>
 2. Jalankan aplikasi yang sudah di download, ( abaikan atau seujui aplikasi, jika anda mendapati peringatan virus karena aplikasi ini belum melewati pengecekan oleh microsoft )
 3. Pilih <strong>Tambah Akun</strong> </br>
 <img src='https://github.com/GMDP-Developers/Whatsapp-Bot-Ebilling/assets/156728028/60acb88b-3be9-4dd2-90ef-f9f27b3c92b5' width='450px'> </br>
