@@ -13,6 +13,10 @@
 6. Lakukan pengujian dengan mengirim pesan ke nomor Whatsapp yang telah dijadikan Bot. Gambar berikut adalah kondisi dimana Whatsapp Bot sudah terhubung dengan server dan berjalan dengan normal </br>
 <img src='https://github.com/GMDP-Developers/Whatsapp-Bot-Ebilling/assets/156728028/3ecaef0f-7f32-4450-acf8-63f7c02b7f30' width='450px'> </br>
 
+## Contoh Pesan Bot Whatsapp
+![image](https://github.com/GMDP-Developers/Whatsapp-Bot-Ebilling/assets/52855068/94ad9a46-f0da-465f-8bdc-fe9577523fc2)
+
+
 ## Penjelasan Menu
 1. Status
    - Online  : Whatsapp Bot berjalan dengan normal dan terhubung dengan server
