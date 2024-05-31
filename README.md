@@ -1,5 +1,6 @@
 <p align="center">
-    <h1 align="center">Whatsapp Bot Ebilling <img alt="Static Badge" src="https://img.shields.io/badge/BETA-088fff"></h1>
+    <h1 align="center"><i> Sedang Dalam Update. Verifikasi akan menjadi nomor HP, tidak lagi menggunakan ID Pelanggan </i></h1>
+    <h3 align="center">Whatsapp Bot Ebilling <img alt="Static Badge" src="https://img.shields.io/badge/BETA-088fff"></h3>
 </p>
 
 <p align="center">
