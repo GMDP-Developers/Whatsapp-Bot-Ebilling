@@ -9,6 +9,14 @@
 
 <h2 align="center">Server Whatsapp akan berjalan di perangkat anda masing-masing, jika anda menutup aplikasi atau mematikan perangkat anda maka server Whatsapp Bot juga akan berhenti</h2>
 
+### Catatan:
+<h4> - ini adalah Whatsapp Bot yang tidak Resmi dari Whatsapp </h4>
+<h4> - Kami tidak menyarankan penggunaan whatsapp bot secara berlebihan, seperti broadcasting pesan </h4>
+<h4> - kami tidak menyarankan penggunaan nomor baru untuk whatsapp bot, karena akan beresiko terbanned </h4>
+<h4> - Kami menghadirkan whatsapp bot alternatif yang gratis, Whatsapp Resmi memberikan harga Rp285.32/pesan yang di kirim. </h4>
+<h4> - <a href="https://developers.facebook.com/docs/whatsapp/pricing"> Baca informasi Harga Resmi Whatsapp disini </a> </h4>
+
+
 ## Langkah - langkah menggunakan Whatsapp Bot
 1. Download Aplikasi Whatsapp Bot Server di menu <a href="https://github.com/GMDP-Developers/Whatsapp-Bot-Ebilling/releases">Releases</a>, dan pilih sesuai operating system anda (Windows pilih .exe). Ketika Download akan muncul peringatan, pilih saja <strong>Keep</strong> atau <strong>Download suspicious file</strong>
 2. Jalankan aplikasi yang sudah di download, ( abaikan atau seujui aplikasi, jika anda mendapati peringatan virus karena aplikasi ini belum melewati pengecekan oleh microsoft )
